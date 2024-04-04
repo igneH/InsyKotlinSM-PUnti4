@@ -7,7 +7,7 @@
 - [ ] onCreate()
 - [ ] onStop()
 
-### After \_\_\_, the app is no longer visible on screen.
+### After ___, the app is no longer visible on screen.
 - [ ] onPause()
 - [ ] onStart()
 - [ ] onCreate()
