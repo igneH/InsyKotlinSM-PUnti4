@@ -50,5 +50,5 @@
 - [ ] androidTestImplementation
 
 ### Unit tests are executed on an Android device or emulator.
-- [ ] Trues
+- [ ] True
 - [x] False
